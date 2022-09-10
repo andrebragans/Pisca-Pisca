@@ -1,5 +1,6 @@
 # pisca-pisca
-Circuito para realizar um circuito de pisca-pisca
+
+Circuito feito no tinkercad, para realizar um pisca-pisca.
 
 
 
